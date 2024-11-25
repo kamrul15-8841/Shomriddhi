@@ -1,6 +1,25 @@
 # Shomriddhi
 This is Shomriddhi a POS software developed with Laravel.
 As a Prodction Software I can not share code of this projeect here.
+•	Web Application Development:
+Developed and maintained web applications using HTML, CSS, PHP, JavaScript, 
+and Laravel.
+•	Custom Projects:
+o	Samriddhi POS: Customized the 'Ultimate POS' system for company-owned 
+o	super shops.
+o	Studio Management System: Streamlined internal studio operations.
+o	Fabric Tracker: Created a fabric inventory and production tracking system.
+o	Compliance Management System: Implemented a tool to monitor industry 
+o	standards and policies.
+•	Production and Inventory Management:
+Built and optimized solutions for production tracking and inventory management
+using PHP, JavaScript, AJAX, and Laravel.
+•	System Support and Maintenance:
+Provided technical support, troubleshooting, and maintenance for critical company
+systems, ensuring smooth operations.
+•	Collaboration and Improvement:
+Worked with cross-functional teams to gather requirements and continuously 
+improvesystem performance and efficiency.
 
 ![1](https://github.com/user-attachments/assets/c94e72b5-366a-4d35-9fca-a8f6add802dd)
 ![2](https://github.com/user-attachments/assets/c0084292-ce68-49fe-bf78-4fc812cbb98d)
