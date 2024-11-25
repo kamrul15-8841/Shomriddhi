@@ -1,5 +1,6 @@
 # Shomriddhi
 This is Shomriddhi a POS software developed with Laravel.
+As a Prodction Software I can not share code of this projeect here.
 ![Screenshot 2024-11-25 124718](https://github.com/user-attachments/assets/b87f48de-5062-47ee-812d-a2ee3ec8ec5c)
 ![Screenshot 2024-11-25 124649](https://github.com/user-attachments/assets/080a3ba6-659e-4276-87f0-7610a5d8f6d3)
 ![Screenshot 2024-11-25 124623](https://github.com/user-attachments/assets/b195e757-5c00-4d16-acb3-a234fa70e6e6)
