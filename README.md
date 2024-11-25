@@ -35,4 +35,6 @@ Shomriddhi POS stands as a testament to innovation and efficiency, tailored to d
 ![9](https://github.com/user-attachments/assets/8850411e-2a00-4b70-8bfc-6e5d54eb1b06)
 ![10](https://github.com/user-attachments/assets/c0322ba1-5029-42b0-8b6e-c81503b7c71b)
 ![11](https://github.com/user-attachments/assets/7d3e3163-aa24-4b76-8dd5-9b78f2833384)
+![Screenshot 2024-11-25 144455](https://github.com/user-attachments/assets/5846e5d4-1070-47e3-b0fa-ad5d4df0cb4c)
+![Screenshot 2024-11-25 144440](https://github.com/user-attachments/assets/1c5fce82-6b00-4984-ad52-c582fdf549e4)
 
