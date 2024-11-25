@@ -10,14 +10,20 @@ Shomriddhi POS is a comprehensive, feature-rich point-of-sale (POS) system devel
 
 Key Features:
 Employee Discount System: Enables company employees, officers, and staff to purchase items at discounted rates, fostering employee satisfaction and loyalty.
+
 Inventory Management: Efficiently tracks stock levels, manages reorders, and ensures optimal inventory control to prevent stockouts or overstocking.
+
 Sales Tracking: Provides real-time sales data, generating insightful reports to aid in data-driven decision-making and performance monitoring.
+
 Multi-User Access: Facilitates role-based access control, ensuring secure operations and appropriate user privileges for different levels of staff.
+
 Customizable Dashboard: Delivers a user-friendly interface that presents critical business metrics and operational data at a glance.
+
 Technologies Used:
 Backend: PHP with Laravel framework for robust performance and secure data handling.
 Frontend: HTML, CSS, and JavaScript for an intuitive and responsive user interface.
 AJAX: Enhances interactivity by enabling asynchronous data operations without page reloads.
+
 Impact:
 Operational Efficiency: Streamlined sales processes and inventory management, reducing manual errors and enhancing productivity.
 Enhanced User Experience: Simplified workflows for staff and management, improving day-to-day operations and customer service.
