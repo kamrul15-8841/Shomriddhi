@@ -10,13 +10,9 @@ Shomriddhi POS is a comprehensive, feature-rich point-of-sale (POS) system devel
 
 Key Features:
 Employee Discount System: Enables company employees, officers, and staff to purchase items at discounted rates, fostering employee satisfaction and loyalty.
-
 Inventory Management: Efficiently tracks stock levels, manages reorders, and ensures optimal inventory control to prevent stockouts or overstocking.
-
 Sales Tracking: Provides real-time sales data, generating insightful reports to aid in data-driven decision-making and performance monitoring.
-
 Multi-User Access: Facilitates role-based access control, ensuring secure operations and appropriate user privileges for different levels of staff.
-
 Customizable Dashboard: Delivers a user-friendly interface that presents critical business metrics and operational data at a glance.
 
 Technologies Used:
